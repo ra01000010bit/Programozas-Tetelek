@@ -1,0 +1,15 @@
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.AssemblyInfoInputs.cache
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.AssemblyInfo.cs
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.csproj.CoreCompileInputs.cache
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\bin\Debug\net8.0\Programozas Tetelek.exe
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\bin\Debug\net8.0\Programozas Tetelek.deps.json
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\bin\Debug\net8.0\Programozas Tetelek.runtimeconfig.json
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\bin\Debug\net8.0\Programozas Tetelek.dll
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\bin\Debug\net8.0\Programozas Tetelek.pdb
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.dll
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\refint\Programozas Tetelek.dll
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.pdb
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.genruntimeconfig.cache
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\ref\Programozas Tetelek.dll
+C:\Users\Nyul\Desktop\Code\Sztf alapjai\Programozas Tetelek\Programozas Tetelek\obj\Debug\net8.0\Programozas Tetelek.sourcelink.json
