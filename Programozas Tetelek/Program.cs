@@ -6,6 +6,7 @@ namespace Programozas_Tetelek
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
             Console.WriteLine("Hello");
             Console.WriteLine("Kérlek válassza az alábbi menü pontok közül!");
             Console.WriteLine("1. Egyszerű programozási tételek.");
