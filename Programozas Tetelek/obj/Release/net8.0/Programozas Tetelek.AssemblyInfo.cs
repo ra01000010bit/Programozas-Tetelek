@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programozas Tetelek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4157745bd82d0351a931d7923cc2aeaee930e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38c51e6311daa9a66ba419764c181d1c261d53e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programozas Tetelek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programozas Tetelek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
