@@ -1,3 +1,6 @@
 # Programozas Tetelek
 ---
-Egyszerű programozási tételek.
+Különböző programozási tételek megvalósítása:
+- Egyszerű programozási tételek
+- Összetett programozási tételek
+- Programozási tételek össze építése
