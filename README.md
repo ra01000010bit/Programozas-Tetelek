@@ -7,3 +7,8 @@ Különböző programozási tételek megvalósítása:
   - Lineáris keresés
 - Összetett programozási tételek
 - Programozási tételek össze építése
+
+---
+- Cél tételek megértése
+- flashcards
+- etc
