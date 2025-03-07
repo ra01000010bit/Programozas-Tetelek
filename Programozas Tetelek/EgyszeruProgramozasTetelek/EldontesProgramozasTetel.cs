@@ -8,14 +8,18 @@ namespace Programozas_Tetelek.EgyszeruProgramozasTetelek
 {
     internal class EldontesProgramozasTetel
     {
-        //public bool Eldontes(int[] tomb, bool van)
-        //{
-        //    int i = 1;
-        //    while (i <= 0 && van  tomb[i])
-        //    {
+        class Eldontes
+        {
+            public static bool VanTulajdonsaguElem(int[] tomb, Func<int, bool> tulajdonsag)
+            {
+                int i = 0;
+                while (i < tomb.Length && !tulajdonsag(tomb[i])) // Amíg nem találunk megfelelő elemet
+                {
+                    i++;
+                }
+                return i < tomb.Length; // Igaz, ha találtunk ilyen elemet
+            }
+        }
 
-        //    }
-        //    return van;
-        //}
     }
 }
