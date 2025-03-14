@@ -7,10 +7,10 @@ A programozási tételek megértése és alkalmazása, interaktív játékokon �
 
 ## Egyszerű Programozási Tételek
 - [x] **Sorszámítás**: Az adatok sorba rendezése és feldolgozása.
-- **Eldöntés**: Különböző döntési logikák alkalmazása, például if-else szerkezetek.
+- [x] **Eldöntés**: Különböző döntési logikák alkalmazása, például if-else szerkezetek.
 - **Kiválasztás**: A legjobb vagy legrosszabb elem kiválasztása egy halmazból.
-- **Lineáris keresés**: Adatok keresése egy egyszerű, sorozatos módon.
-- **Megszámlálás**: Az egyes elemek előfordulásának megszámolása.
+- [x] **Lineáris keresés**: Adatok keresése egy egyszerű, sorozatos módon.
+- [x] **Megszámlálás**: Az egyes elemek előfordulásának megszámolása.
 - **Maximum kiválasztás**: A legnagyobb értékek megtalálása egy listában.
 
 ## Összetett Programozási Tételek

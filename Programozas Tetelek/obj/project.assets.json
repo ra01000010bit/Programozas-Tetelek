@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nyul\\Desktop\\Code\\Sztf alapjai\\Programozas Tetelek\\Programozas Tetelek\\Programozas Tetelek.csproj",
+      "projectUniqueName": "C:\\Users\\Nyul\\Desktop\\Code\\CSharp\\Programozas Tetelek\\Programozas Tetelek\\Programozas Tetelek.csproj",
       "projectName": "Programozas Tetelek",
-      "projectPath": "C:\\Users\\Nyul\\Desktop\\Code\\Sztf alapjai\\Programozas Tetelek\\Programozas Tetelek\\Programozas Tetelek.csproj",
+      "projectPath": "C:\\Users\\Nyul\\Desktop\\Code\\CSharp\\Programozas Tetelek\\Programozas Tetelek\\Programozas Tetelek.csproj",
       "packagesPath": "C:\\Users\\Nyul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nyul\\Desktop\\Code\\Sztf alapjai\\Programozas Tetelek\\Programozas Tetelek\\obj\\",
+      "outputPath": "C:\\Users\\Nyul\\Desktop\\Code\\CSharp\\Programozas Tetelek\\Programozas Tetelek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nyul\\AppData\\Roaming\\NuGet\\NuGet.Config",
