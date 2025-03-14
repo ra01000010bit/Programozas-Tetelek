@@ -6,7 +6,7 @@ Ez a projekt különböző programozási tételek megvalósítására épül. C�
 A programozási tételek megértése és alkalmazása, interaktív játékokon és gyakorlófeladatokon keresztül.
 
 ## Egyszerű Programozási Tételek
-- **Sorszámítás**: Az adatok sorba rendezése és feldolgozása.
+- [-] **Sorszámítás**: Az adatok sorba rendezése és feldolgozása.
 - **Eldöntés**: Különböző döntési logikák alkalmazása, például if-else szerkezetek.
 - **Kiválasztás**: A legjobb vagy legrosszabb elem kiválasztása egy halmazból.
 - **Lineáris keresés**: Adatok keresése egy egyszerű, sorozatos módon.
